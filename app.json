@@ -1,9 +1,9 @@
 {
-  "name": "KatilMusicX",
-  "logo": "https://telegra.ph/file/13fba0e9d76c406ae9ce2.jpg",
+  "name": "AujlaMusicX",
+  "logo": "https://te.legra.ph/file/e9a05417a93b0d8dffd71.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/bhumiharsaurabh/katilmusicx",
+  "repository": "https://github.com/TejinderAujla/PB65AUJLAMusic",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
@@ -51,7 +51,7 @@
     },
     "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/bhumiharsaurabh/katilmusicx",
+        "value": "https://github.com/TejinderAujla/PB65AUJLAMusic",
         "required": true
     },
     "UPSTREAM_BRANCH": {
@@ -62,7 +62,7 @@
     "DURATION_LIMIT": {
       "description": "Max audio duration limit for downloads (minutes).",
       "required": true,
-      "value": "200"
+      "value": "2000"
     }
   }
 }
