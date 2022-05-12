@@ -18,7 +18,7 @@ async def pmPermit(client: USER, message: Message):
                 return
             await USER.send_message(
                 message.chat.id,
-                f"ʜᴇʏ {message.from_user.mention()},\nᴛʜɪs ɪs [{🅐𝖚𝖏𝖑𝖆}](t.me/{PB65Aujla_Bot}) ʙᴏᴛ ᴀssɪsᴛᴀɴᴛ ᴀᴄᴄᴏᴜɴᴛ.\n\nᴅᴏɴ'ᴛ ᴛʀʏ ᴛᴏ sᴘᴀᴍ ʜᴇʀᴇ ᴇʟsᴇ ʏᴏᴜ ᴡɪʟʟ ɢᴇᴛ ꜰᴜ*ᴋᴇᴅ ʙʏ [★•亗『Tejinder Aujla』亗•★ ](t.me/{Aujla_PB_65}).\n",
+                f"ʜᴇʏ {message.from_user.mention()},\nᴛʜɪs ɪs [{Aujla}](t.me/{PB65Aujla_Bot}) ʙᴏᴛ ᴀssɪsᴛᴀɴᴛ ᴀᴄᴄᴏᴜɴᴛ.\n\nᴅᴏɴ'ᴛ ᴛʀʏ ᴛᴏ sᴘᴀᴍ ʜᴇʀᴇ ᴇʟsᴇ ʏᴏᴜ ᴡɪʟʟ ɢᴇᴛ ꜰᴜ*ᴋᴇᴅ ʙʏ [★•亗『Tejinder Aujla』亗•★ ](t.me/{Aujla_PB_65}).\n",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
